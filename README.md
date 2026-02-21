@@ -28,7 +28,7 @@ It is designed to quickly provision tools, runtimes, and configurations required
 ├── tools.yml                  # Common DevOps tools
 ├── yarn.yml                   # Yarn package manager
 └── zsh.yml                    # Zsh + shell customization
-
+```
 ## 🚀 What This Project Does
 
 ✔ Automates DevOps environment setup
@@ -71,7 +71,7 @@ ansible-playbook full.yml
 ## 📜 License
 This project is open-source and free to use for learning and personal projects.
 
-##🤝 Contributions
+## 🤝 Contributions
 - Contributions, improvements, and suggestions are welcome!
 - Feel free to fork the repo and raise a PR.
 
